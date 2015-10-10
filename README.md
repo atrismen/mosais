@@ -20,4 +20,7 @@ Two types of distributions are currently supported:
 ## Credits
 - The idea behind this application was inspired by [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/) by Mike Bostock.
 
-- [imgscalr - Java Image Scaling Library](http://www.thebuzzmedia.com/software/imgscalr-java-image-scaling-library/) by The Buzz Media.  
+- [imgscalr - Java Image Scaling Library](http://www.thebuzzmedia.com/software/imgscalr-java-image-scaling-library/) by The Buzz Media. 
+
+## License
+This project is licensed under the GPL v3 
